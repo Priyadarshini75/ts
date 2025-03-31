@@ -1,7 +1,0 @@
-numpy
-opencv-python
-pymongo
-scipy
-torch
-ultralytics
-insightface
