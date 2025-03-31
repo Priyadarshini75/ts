@@ -1,0 +1,9 @@
+person_tracking_project/
+├── main.py
+├── utils/
+│   ├── db_handler.py
+│   ├── face_detection.py
+│   ├── person_tracking.py
+├── models/
+│   ├── yolo_model.pt
+└── requirements.txt
