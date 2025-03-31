@@ -1,0 +1,18 @@
+ project_root/
+├── main.py                    # Main entry point
+├── detector/
+│   ├── yolo_detector.py       # YOLO detection and tracking logic
+│   ├── grid_analysis.py       # Grid-based crowd detection logic
+├── utils/
+│   ├── video_utils.py         # Input and output video handling logic
+│   ├── db_utils.py            # MongoDB connection and operations
+│   ├── screenshot_utils.py    # Screenshot saving functionality
+│   ├── distance_utils.py      # Distance calculation helpers
+├── data/
+│   ├── input_videos/          # Folder for input videos
+│   ├── output_videos/         # Folder for output videos
+│   ├── screenshots/           # Folder for saved screenshots
+├── config/
+│   ├── config.py              # Configuration for paths, thresholds, and model settings
+├── requirements.txt           # Dependencies
+└── README.md                  # Project documentation
