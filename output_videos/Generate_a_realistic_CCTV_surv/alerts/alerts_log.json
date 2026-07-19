@@ -1,0 +1,136 @@
+{
+  "total_alerts": 12,
+  "generated_at": "2026-07-19T16:48:28.141820",
+  "alerts": [
+    {
+      "track_id": 1,
+      "frame_idx": 12,
+      "timestamp_sec": 1.2,
+      "anomaly_score": 67.1,
+      "behaviors": [
+        "HAND_TO_POCKET"
+      ],
+      "alert_level": "WARNING",
+      "image_path": "output_videos/Generate_a_realistic_CCTV_surv/alerts/alert_0001_person1_frame12_WARNING.jpg"
+    },
+    {
+      "track_id": 2,
+      "frame_idx": 19,
+      "timestamp_sec": 1.9,
+      "anomaly_score": 68.6,
+      "behaviors": [
+        "LOOKING_AROUND"
+      ],
+      "alert_level": "WARNING",
+      "image_path": "output_videos/Generate_a_realistic_CCTV_surv/alerts/alert_0002_person2_frame19_WARNING.jpg"
+    },
+    {
+      "track_id": 4,
+      "frame_idx": 19,
+      "timestamp_sec": 1.9,
+      "anomaly_score": 68.6,
+      "behaviors": [
+        "LOOKING_AROUND"
+      ],
+      "alert_level": "WARNING",
+      "image_path": "output_videos/Generate_a_realistic_CCTV_surv/alerts/alert_0003_person4_frame19_WARNING.jpg"
+    },
+    {
+      "track_id": 5,
+      "frame_idx": 19,
+      "timestamp_sec": 1.9,
+      "anomaly_score": 68.6,
+      "behaviors": [
+        "LOOKING_AROUND"
+      ],
+      "alert_level": "WARNING",
+      "image_path": "output_videos/Generate_a_realistic_CCTV_surv/alerts/alert_0004_person5_frame19_WARNING.jpg"
+    },
+    {
+      "track_id": 6,
+      "frame_idx": 26,
+      "timestamp_sec": 2.6,
+      "anomaly_score": 68.6,
+      "behaviors": [
+        "LOOKING_AROUND"
+      ],
+      "alert_level": "WARNING",
+      "image_path": "output_videos/Generate_a_realistic_CCTV_surv/alerts/alert_0005_person6_frame26_WARNING.jpg"
+    },
+    {
+      "track_id": 7,
+      "frame_idx": 33,
+      "timestamp_sec": 3.3,
+      "anomaly_score": 68.6,
+      "behaviors": [
+        "LOOKING_AROUND"
+      ],
+      "alert_level": "WARNING",
+      "image_path": "output_videos/Generate_a_realistic_CCTV_surv/alerts/alert_0006_person7_frame33_WARNING.jpg"
+    },
+    {
+      "track_id": 3,
+      "frame_idx": 37,
+      "timestamp_sec": 3.7,
+      "anomaly_score": 68.6,
+      "behaviors": [
+        "LOOKING_AROUND"
+      ],
+      "alert_level": "WARNING",
+      "image_path": "output_videos/Generate_a_realistic_CCTV_surv/alerts/alert_0007_person3_frame37_WARNING.jpg"
+    },
+    {
+      "track_id": 10,
+      "frame_idx": 62,
+      "timestamp_sec": 6.2,
+      "anomaly_score": 68.6,
+      "behaviors": [
+        "LOOKING_AROUND"
+      ],
+      "alert_level": "WARNING",
+      "image_path": "output_videos/Generate_a_realistic_CCTV_surv/alerts/alert_0008_person10_frame62_WARNING.jpg"
+    },
+    {
+      "track_id": 12,
+      "frame_idx": 111,
+      "timestamp_sec": 11.1,
+      "anomaly_score": 68.6,
+      "behaviors": [
+        "LOOKING_AROUND"
+      ],
+      "alert_level": "WARNING",
+      "image_path": "output_videos/Generate_a_realistic_CCTV_surv/alerts/alert_0009_person12_frame111_WARNING.jpg"
+    },
+    {
+      "track_id": 1,
+      "frame_idx": 112,
+      "timestamp_sec": 11.2,
+      "anomaly_score": 100.0,
+      "behaviors": [
+        "HAND_TO_POCKET",
+        "LOOKING_AROUND",
+        "SEQUENCE_DETECTED"
+      ],
+      "alert_level": "HIGH",
+      "image_path": "output_videos/Generate_a_realistic_CCTV_surv/alerts/alert_0010_person1_frame112_HIGH.jpg"
+    },
+    {
+      "track_id": 2,
+      "frame_idx": 119,
+      "timestamp_sec": 11.9,
+      "anomaly_score": 81.5,
+      "behaviors": [],
+      "alert_level": "HIGH",
+      "image_path": "output_videos/Generate_a_realistic_CCTV_surv/alerts/alert_0011_person2_frame119_HIGH.jpg"
+    },
+    {
+      "track_id": 4,
+      "frame_idx": 119,
+      "timestamp_sec": 11.9,
+      "anomaly_score": 73.5,
+      "behaviors": [],
+      "alert_level": "WARNING",
+      "image_path": "output_videos/Generate_a_realistic_CCTV_surv/alerts/alert_0012_person4_frame119_WARNING.jpg"
+    }
+  ]
+}

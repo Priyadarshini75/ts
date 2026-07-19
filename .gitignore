@@ -1,0 +1,5 @@
+weights/
+*.pt
+__pycache__/
+*.pyc
+.env
